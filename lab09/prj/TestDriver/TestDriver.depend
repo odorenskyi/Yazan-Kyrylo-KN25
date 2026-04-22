@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776877155 source:d:\yazan-kyrylo-kn25\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<string>
+	"ModulesYazan.h"
+
+1776876967 d:\yazan-kyrylo-kn25\lab08\prj\modulesyazan.h
+	<string>
+
