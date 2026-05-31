@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1780249401 source:d:\yazan-kyrylo-kn25\lab11\prj\modules_yazan\module_fihura.cpp
+	"struct_type_project_5.h"
+
+1780249324 d:\yazan-kyrylo-kn25\lab11\prj\modules_yazan\struct_type_project_5.h
+	<iostream>
+	<string>
+
+1780249415 source:d:\yazan-kyrylo-kn25\lab11\prj\modules_yazan\module_yazan.cpp
+	"struct_type_project_5.h"
+	<fstream>
+
+1780249541 source:d:\yazan-kyrylo-kn25\lab11\prj\modules_yazan\main.cpp
+	"struct_type_project_5.h"
+	<windows.h>
+
