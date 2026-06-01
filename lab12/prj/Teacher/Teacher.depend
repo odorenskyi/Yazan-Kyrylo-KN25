@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1780314845 source:d:\yazan-kyrylo-kn25\lab12\prj\teacher\modulesyazan.cpp
+	"ModulesYazan.h"
+
+1780321835 d:\yazan-kyrylo-kn25\lab12\prj\teacher\modulesyazan.h
+	<string>
+
+1780316386 source:d:\yazan-kyrylo-kn25\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<windows.h>
+	"ModulesYazan.h"
+
