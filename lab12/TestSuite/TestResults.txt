@@ -1,0 +1,8 @@
+TC_01 -> getCoverArea() -> 408 -> PASS
+TC_02 -> setDimensions(-10, -20) (Validation) -> PASS
+TC_03 -> setTitle("TestBook") -> getTitle() -> PASS
+-----------------------------------
+TC_01 -> getCoverArea() -> 408 -> PASS
+TC_02 -> setDimensions(-10, -20) (Validation) -> PASS
+TC_03 -> setTitle("TestBook") -> getTitle() -> PASS
+-----------------------------------
